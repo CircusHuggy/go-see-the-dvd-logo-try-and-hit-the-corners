@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQQABAAAABVVf///19VVVVVX1VV9VVVVVVfVVX1VVVVVV9VVfVVVVVV9VVVX1VVVVVV//9VVVVVVfX//19VVVVVVVVV9VVVVVX1//9fVVVVVVVVVVVVVVVV////X1VVVVVfVVX1VVVVVV9VVfVVVVVVX1VV9VVVVVX1VVVfVVVVVVX//1VVVQ==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "DVD"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
